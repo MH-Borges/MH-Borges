@@ -4,7 +4,7 @@
 <h3 aling="center">Uma breve descrição sobre Quem sou EU!!</h3>
 
 <h2 align="center">< Matheus Henrique /></h2>
-<h4 align="center">Front-end Developer and Future Game Developer</h4>
+<h3 align="center">Front-end Developer and Future Game Developer</h3>
 
 Programador iniciante, buscando por novas experiencias, Estudante autodidata focado em HTML, CSS, Javascript e Python. Você pode dar uma olhada no [Meu Site](https://matheus-hb42.github.io/Portfolio/) para me conhecer melhor e ver um pouco dos meus projetos.
 
