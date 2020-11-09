@@ -1,5 +1,7 @@
 # Matheus-Henrique
-Uma breve descrição sobre Quem sou EU!! 
+![banner01](https://user-images.githubusercontent.com/60525913/98497204-203c7e80-2222-11eb-818a-a1a749de0575.jpg)
+
+<h3 aling="center">Uma breve descrição sobre Quem sou EU!!</h3> 
 
 <h2 align="center">< Matheus Henrique /></h2>
 <h3 align="center">Front-end Developer and Future Game Developer</h3>
