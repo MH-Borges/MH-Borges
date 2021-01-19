@@ -6,7 +6,7 @@
 <h2 align="center">< Matheus Henrique /></h2>
 <h3 align="center">Front-end Developer and Future Game Developer</h3>
 
-Programador iniciante, buscando por novas experiencias, Estudante autodidata focado em HTML, CSS, Javascript e Python. Você pode dar uma olhada no [Meu Site](https://matheus-hb42.github.io/Portfolio/) para me conhecer melhor e ver um pouco dos meus projetos.
+Programador iniciante, buscando por novas experiencias, Estudante autodidata focado em HTML, CSS, Javascript e Python. Você pode dar uma olhada no [Meu Site](mhborges.com.br) para me conhecer melhor e ver um pouco dos meus projetos.
 
 Um grande apaixonado por jogos e tecnologia. Desde muito novo sou apaixonado por jogos, por todas suas dinâmicas e possibilidades de criação. Minha grande ambição é me tornar um programador de jogos de sucesso; me inseri no meio tecnologico pois é um universo gigantesco, com milhões de possibilidades que amo explorar todos os dias.
 
