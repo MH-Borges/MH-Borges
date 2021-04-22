@@ -13,7 +13,7 @@ Um grande apaixonado por jogos e tecnologia. Desde muito novo sou apaixonado por
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Matt_Henriq42?style=social)](https://twitter.com/Matt_Henriq42)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/emptymind_/)](https://www.instagram.com/emptymind_/)
-[![Linkedin: Matheus H. Borges](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henrique-b-a20235126/)](https://www.linkedin.com/in/matheus-henrique-b-a20235126/)
+[![Linkedin: Matheus H. Borges](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henrique-b-a20235126/)](https://www.linkedin.com/in/matheus-henrique-b-a20235126/)
 
 ## ⚡ TECNOLOGIAS
 
@@ -28,4 +28,4 @@ tecnologias que eu trabalho:
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
