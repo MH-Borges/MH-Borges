@@ -3,15 +3,14 @@
 
 <h3 aling="center">Uma breve descrição sobre Quem sou EU!!</h3>
 
-<h2 align="center">< Matheus Henrique /></h2>
-<h3 align="center">Front-end Developer and Future Game Developer</h3>
+<h2 align="center">Matheus H. BORGES</h2>
+<h3 align="center">Front-end Developer</h3>
 
 Programador iniciante, buscando por novas experiencias, Estudante autodidata focado em HTML, CSS, Javascript e Python. Você pode dar uma olhada no [Meu Site](mhborges.com.br) para me conhecer melhor e ver um pouco dos meus projetos.
 
 Um grande apaixonado por jogos e tecnologia. Desde muito novo sou apaixonado por jogos, por todas suas dinâmicas e possibilidades de criação. Minha grande ambição é me tornar um programador de jogos de sucesso; me inseri no meio tecnologico pois é um universo gigantesco, com milhões de possibilidades que amo explorar todos os dias.
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Matt_Henriq42?style=social)](https://twitter.com/Matt_Henriq42)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/emptymind_/)](https://www.instagram.com/emptymind_/)
 [![Linkedin: Matheus H. Borges](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henrique-b-a20235126/)](https://www.linkedin.com/in/matheus-henrique-b-a20235126/)
 
