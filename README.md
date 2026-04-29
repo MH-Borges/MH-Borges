@@ -3,7 +3,7 @@
 
 <h3 aling="center">Uma breve descrição sobre Quem sou EU!!</h3>
 
-<h2 align="center">Matheus H. BORGES</h2>
+<h2 align="center">Matheus H. Borges</h2>
 <h3 align="center">Front-end Developer</h3>
 
 Programador iniciante, buscando por novas experiencias, Estudante autodidata focado em HTML, CSS, Javascript e Python. Você pode dar uma olhada no [Meu Site](mhborges.com.br) para me conhecer melhor e ver um pouco dos meus projetos.
