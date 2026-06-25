@@ -1,9 +1,10 @@
 # Matheus-Henrique
-![banner01](https://user-images.githubusercontent.com/60525913/98497204-203c7e80-2222-11eb-818a-a1a749de0575.jpg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Especialista+em+Soluções+Web;Apaixonado+por+Tecnologia&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&size=22">
 </p>
+
+![banner01](https://user-images.githubusercontent.com/60525913/98497204-203c7e80-2222-11eb-818a-a1a749de0575.jpg)
 
 <h3 aling="center">Uma breve descrição sobre Quem sou EU!!</h3>
 
@@ -17,6 +18,14 @@ Um grande apaixonado por jogos e tecnologia. Desde muito novo sou apaixonado por
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/emptymind_/)](https://www.instagram.com/emptymind_/)
 [![Linkedin: Matheus H. Borges](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henrique-b-a20235126/)](https://www.linkedin.com/in/matheus-henrique-b-a20235126/)
+
+<div align="center">
+  
+  ### 📈 Atividade da Semana
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MH-Borges&theme=tokyo-night&hide_border=true" width="100%">
+</div>
+
 
 ## ⚡ TECNOLOGIAS
 
