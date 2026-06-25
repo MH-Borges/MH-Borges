@@ -1,6 +1,10 @@
 # Matheus-Henrique
 ![banner01](https://user-images.githubusercontent.com/60525913/98497204-203c7e80-2222-11eb-818a-a1a749de0575.jpg)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Especialista+em+Soluções+Web;Apaixonado+por+Tecnologia&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&size=22">
+</p>
+
 <h3 aling="center">Uma breve descrição sobre Quem sou EU!!</h3>
 
 <h2 align="center">Matheus H. Borges</h2>
